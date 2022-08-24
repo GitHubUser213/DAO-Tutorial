@@ -3,7 +3,7 @@ import { FaUserSecret } from 'react-icons/fa'
 import { MdLightMode } from 'react-icons/md'
 import { FaMoon } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
-import { connectWallet } from '../Dominion'
+import { connectWallet } from '../Dooms'
 import { useGlobalState, truncate } from '../store'
 
 const Header = () => {

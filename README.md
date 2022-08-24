@@ -11,12 +11,11 @@ This demo uses:
 - Truffle
 - ReactJs
 - Tailwind CSS
-- Ganache-CLI
 - Solidity
 - Web3js
 - BSC Testnet Faucet
 
-## Running the demo
+## Running the demo 🏠
 
 To run the demo follow these steps:
 
@@ -56,7 +55,6 @@ Questions about running the demo? [Open an issue](https://github.com/MarryamZulf
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
@@ -64,4 +62,3 @@ Questions about running the demo? [Open an issue](https://github.com/MarryamZulf
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [Web3Js](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [Ganache](https://trufflesuite.com/ganache/index.html)

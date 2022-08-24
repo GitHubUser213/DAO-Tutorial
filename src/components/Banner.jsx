@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { setGlobalState, useGlobalState } from '../store'
-import { performContribute } from '../Dominion'
+import { performContribute } from '../Dooms'
 import { toast } from 'react-toastify'
 
 const Banner = () => {

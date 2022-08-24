@@ -12,7 +12,7 @@ import {
   Legend,
   Tooltip,
 } from 'recharts'
-import { getProposal, voteOnProposal } from '../Dominion'
+import { getProposal, voteOnProposal } from '../Dooms'
 import { useGlobalState } from '../store'
 
 const ProposalDetails = () => {

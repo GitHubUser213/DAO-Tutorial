@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { Routes, Route } from 'react-router-dom'
-import { loadWeb3 } from './Dominion'
+import { loadWeb3 } from './Dooms'
 import { ToastContainer } from 'react-toastify'
 import { isUserLoggedIn } from './CometChat'
 import Home from './views/Home'

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { FaTimes } from 'react-icons/fa'
-import { raiseProposal } from '../Dominion'
+import { raiseProposal } from '../Dooms'
 import { setGlobalState, useGlobalState } from '../store'
 import { toast } from 'react-toastify'
 
